@@ -64,6 +64,7 @@ jobs:
           - vearch
           - vespa
           - weaviate
+          - dingodb
         include:
           - library: pynndescent
             dataset: random-xs-16-hamming
